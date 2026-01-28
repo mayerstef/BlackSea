@@ -1,4 +1,3 @@
-```markdown
 # Black Sea Fish Biodiversity — range mapping + diversity indices (R)
 
 Reproducible R workflow to
@@ -53,5 +52,5 @@ Mayer, S. (2023). *Linking patterns in phylogeny, traits, and space for Black Se
 ## Contact
 
 Stefanie Mayer (https://stefanieseas.wordpress.com/)
-```
+
 
