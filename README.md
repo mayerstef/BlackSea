@@ -1,7 +1,10 @@
 ```markdown
 # Black Sea Fish Biodiversity — range mapping + diversity indices (R)
 
-Reproducible R workflow to (1) build species distribution products for Black Sea fishes from multi-source data, (2) aggregate outputs to a common grid, and (3) compute and analyze taxonomic, functional, and phylogenetic diversity patterns by bioregion.
+Reproducible R workflow to
+(1) build species distribution products for Black Sea fishes from multi-source data, 
+(2) aggregate outputs to a common grid, and 
+(3) compute and analyze taxonomic, functional, and phylogenetic diversity patterns by bioregion.
 
 Developed as part of an IMBRSea M.Sc. thesis project (2023) in the Modelling for Aquatic Systems (MAST) group (University of Liège).
 
@@ -36,7 +39,8 @@ Developed as part of an IMBRSea M.Sc. thesis project (2023) in the Modelling for
 
 ## Data & access
 
-This workflow draws on open biodiversity and fisheries sources (e.g., GBIF/OBIS occurrence data, IUCN/FAO distribution layers when available, and fisheries datasets), plus environmental layers for spatial constraints/analysis.
+This workflow draws on open biodiversity and fisheries sources (e.g., GBIF/OBIS occurrence data, IUCN/FAO distribution layers when available, and fisheries datasets), 
+plus environmental layers for spatial constraints/analysis.
 
 API keys/credentials are not stored in this repository. If an API-backed source is used (e.g., IUCN Red List), set your key via environment variables (e.g., `~/.Renviron`).
 
